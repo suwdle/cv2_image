@@ -1,7 +1,3 @@
-pip install streamlit
-pip install cv2
-pip install numpy
-pip install matplotlib
 import streamlit as st
 import cv2
 import numpy as np
